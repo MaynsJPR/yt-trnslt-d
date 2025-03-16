@@ -4,6 +4,7 @@
 
 Для работы обязательно нужен PowerShell 7+
 для установки используйте winget команду
+
 winget search Microsoft.PowerShell
 
 VOT-CLI - https://github.com/FOSWLY/vot-cli
